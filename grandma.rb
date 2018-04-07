@@ -1,4 +1,4 @@
-def speak_to_grandma 
+def speak_to_grandma
   if speak_to_grandma.upcase == true
     return  "I LOVE YOU TOO PUMPKIN"
   elsif speak_to_grandma
