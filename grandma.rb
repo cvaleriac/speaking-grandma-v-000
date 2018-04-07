@@ -1,5 +1,5 @@
 def speak_to_grandma (phrase = "I love you granma")
-  if phrase == phrase.upcase
+  if phrase.upcase
     return  "I LOVE YOU TOO PUMPKIN"
   elsif phrase
     return "HUH?! SPEAK UP, SONNY!"
